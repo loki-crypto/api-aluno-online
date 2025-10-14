@@ -29,23 +29,14 @@ A seguir estão os prints que documentam o funcionamento dos endpoints e a persi
 
 Endpoint responsável por receber os dados de um novo aluno em formato JSON e salvá-lo no banco de dados.
 
-![Print da requisição para criar um aluno](<img width="726" height="615" alt="image" src="https://github.com/user-attachments/assets/a275a0a7-91cc-49f8-91fa-2b615de91019" />
-)
-
 ### 2. Buscar Todos os Alunos (`GET /alunos`)
 
 Endpoint que retorna uma lista com todos os alunos cadastrados no banco de dados.
-
-![Print da requisição para buscar todos os alunos](prints/print_2_buscar_todos.png)
 
 ### 3. Buscar Aluno por ID (`GET /alunos/{id}`)
 
 Endpoint que retorna os dados de um aluno específico a partir do seu ID.
 
-![Print da requisição para buscar um aluno por ID](prints/print_3_buscar_por_id.png)
-
 ### 4. Prova da Persistência no Banco de Dados (DBeaver)
 
 Print do DBeaver mostrando os dados inseridos através da API, confirmando que foram salvos com sucesso no banco de dados PostgreSQL na AWS.
-
-![Print do DBeaver com os dados na tabela](prints/print_4_banco_de_dados.png)
