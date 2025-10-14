@@ -23,7 +23,7 @@ O projeto consiste em uma API com três endpoints principais para operações de
 
 ## Endpoints da API
 
-A seguir estão os prints que documentam o funcionamento dos endpoints e a persistência dos dados.
+A seguir estão os tipos de requisições que documentam o funcionamento dos endpoints e a persistência dos dados.
 
 ### 1. Criar Aluno (`POST /alunos`)
 
