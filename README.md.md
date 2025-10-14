@@ -29,7 +29,8 @@ A seguir estão os prints que documentam o funcionamento dos endpoints e a persi
 
 Endpoint responsável por receber os dados de um novo aluno em formato JSON e salvá-lo no banco de dados.
 
-![Print da requisição para criar um aluno](prints/print_1_criar_aluno.png)
+![Print da requisição para criar um aluno](<img width="726" height="615" alt="image" src="https://github.com/user-attachments/assets/a275a0a7-91cc-49f8-91fa-2b615de91019" />
+)
 
 ### 2. Buscar Todos os Alunos (`GET /alunos`)
 
